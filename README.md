@@ -15,7 +15,7 @@
 HTML CSS Bootstrap Tailwind_CSS Javascript ReactJs Vue Js Python
 
 
-![HTML](https://image.flaticon.com/icons/png/512/919/919827.png)
+![HTML](https://image.flaticon.com/icons/png/100/200/919827.png)
 
 
 
