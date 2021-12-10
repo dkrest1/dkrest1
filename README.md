@@ -10,6 +10,7 @@
  - 🌱: Currently Learning ReactJs
  - 👯: I'm ready to be part of any project which technology ranges from HTML, CSS, Tailwind CSS, Boostrap, JavaScript, NodeJs, and ReactJs.
  - ⚡: just Wanna let you know i love watching Football, Listening to songs, and Dancing 😜
+ - 📫: you can reach me on [Twitter](https://www.twitter.com/dkrest1) || [linkedin](https://www.linkedin.com/in/oluwatosin-akande1)
 
 
 
