@@ -12,10 +12,6 @@
  - ⚡: just Wanna let you know i love watching Football, Listening to songs, and Dancing 😜
 
 
-HTML CSS Bootstrap Tailwind_CSS Javascript ReactJs Vue Js Python
-
-
-![HTML](https://image.flaticon.com/icons/png/100/200/919827.png)
 
 
 
