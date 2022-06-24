@@ -8,7 +8,7 @@
 
  - 💬: you can always message me when you have a javaScript project.
  - 🌱: Currently Learning ReactJs
- - 👯: I'm ready to be part of any project which technology ranges from HTML, CSS, Tailwind CSS, Boostrap, JavaScript, NodeJs, Python, and ReactJs.
+ - 👯: I'm ready to be part of any project which technology ranges from HTML, CSS, Tailwind CSS, JavaScript, Python, and ReactJs.
  - ⚡: just Wanna let you know i love watching Football, Listening to songs, and Dancing 😜
  - 📫: you can reach me on [Twitter](https://twitter.com/Dkrest1) || [linkedin](https://www.linkedin.com/in/oluwatosin-akande1)
 
