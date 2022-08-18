@@ -3,13 +3,13 @@
 
 ### ABOUT ME?
 
-**I'm a self motivated and result oriented team player, a software developer and a graduate of Metallurgical and Material Engineering, seeking a dynamic environment with the euphoria of delivering my best** 
+**I'm a self motivated and result oriented team player, a software developer and a graduate of Metallurgical and Material Engineering, seeking a dynamic environment with the euphoria of delivering my best.** 
 **I also want to tell you i consume code on a daily basis**
 
- - 💬: you can always message me when you have a javaScript project.
- - 🌱: Currently Learning ReactJs
- - 👯: I'm ready to be part of any project which technology ranges from HTML, CSS, Tailwind CSS, JavaScript, Python, and ReactJs.
- - ⚡: just Wanna let you know i love watching Football, Listening to songs, and Dancing 😜
+ - 💬: you can always message me when you have a React or NodeJS project.
+ - 🌱: Currently Learning ReactJs and NodeJS
+ - 👯: I'm ready to be part of any project which technology ranges from HTML, CSS, Tailwind CSS, JavaScript, Python, ReactJs and NodeJS .
+ - ⚡: I just Wanna let you know i love watching Football, Listening to songs, and Dancing 😜
  - 📫: you can reach me on [Twitter](https://twitter.com/Dkrest1) || [linkedin](https://www.linkedin.com/in/oluwatosin-akande1)
 
 
