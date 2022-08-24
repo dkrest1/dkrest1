@@ -6,7 +6,7 @@
 **I'm a self motivated and result oriented team player, a software developer with a degree in Material Engineering, seeking a dynamic environment with the euphoria of delivering my best.** 
 **I also want to tell you i consume code on a daily basis**
 
- - 💬: you can always message me when you have a React or NodeJS project.
+ - 💬: you can always message me when you have a React or NodeJS project (MERN STACK PROJECT).
  - 🌱: Currently Learning ReactJs and NodeJS
  - 👯: I'm ready to be part of any project which technology ranges from HTML, CSS, Tailwind CSS, JavaScript, Python, ReactJs and NodeJS .
  - ⚡: I just Wanna let you know i love watching Football, Listening to songs, and Dancing 😜
