@@ -3,7 +3,7 @@
 
 ### ABOUT ME?
 
-**I'm a self motivated and result oriented team player, a software developer and a degree in Material Engineering, seeking a dynamic environment with the euphoria of delivering my best.** 
+**I'm a self motivated and result oriented team player, a software developer with a degree in Material Engineering, seeking a dynamic environment with the euphoria of delivering my best.** 
 **I also want to tell you i consume code on a daily basis**
 
  - 💬: you can always message me when you have a React or NodeJS project.
