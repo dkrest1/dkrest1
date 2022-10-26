@@ -7,7 +7,7 @@
 **I also want to tell you i consume code on a daily basis**
 
  - 💬: you can always message me when you have a React or NodeJS project (MERN STACK PROJECT).
- - 🌱: Currently Learning ReactJs and NodeJS
+ - 🌱: Currently Learning ReactJs, NodeJS and Postgresql 
  - 👯: I'm ready to be part of any project which technology ranges from HTML, CSS, Tailwind CSS, JavaScript, Python, ReactJs and NodeJS .
  - ⚡: I just Wanna let you know I love watching Football, Listening to songs, and Dancing 😜
  - 📫: you can reach me on [Twitter](https://twitter.com/dkrestdev) || [linkedin](https://www.linkedin.com/in/oluwatosin-akande1)
