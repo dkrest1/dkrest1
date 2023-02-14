@@ -5,9 +5,9 @@
 
 **I'm a self motivated and result oriented team player, seeking a dynamic environment with the euphoria of delivering my best.** 
 
- - 🌱: Currently Learning NodeJS and Postgresql 
- - 👯: I'm ready to be part of any project which technology ranges from JavaScript, Python, ReactJs and NodeJS.
- - ⚡: I just Wanna let you know I love watching Football, and Listening to songs 😜
+ - 🌱: Currently Learning Everything Necessary, Be it tools, technologies to make me a standout software engineer.  
+ - 👯: I'm ready to be part of any project which technology ranges from JavaScript, Python, and NodeJS.
+ - ⚡: I just Wanna let you know I love watching Football, and Listening to songs 😜.
  - 📫: you can reach me on [Twitter](https://twitter.com/dkrestdev) || [linkedin](https://www.linkedin.com/in/oluwatosin-akande1)
 
 
