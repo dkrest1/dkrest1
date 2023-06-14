@@ -9,7 +9,7 @@
  - 👯: I'm ready to be part of any project which technology ranging from JavaScript, Typescript and NodeJS.
  - ⚡: I just Wanna let you know I love watching Football, and Listening to songs 😜.
  - 💬 : I write about random topics that I find challenging and interesting on [Medium](https://medium.com/@oluwatosinakande)
- - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Medium](https://medium.com/@oluwatosinakande) || [Twitter](https://twitter.com/dkrestdev)
+ - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://twitter.com/dkrestdev)
 
 
 
