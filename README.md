@@ -5,10 +5,10 @@
 
 **I'm a self motivated and result oriented team player, seeking a dynamic environment with the euphoria of delivering my best.** 
 
- - 🌱: Currently learning everything necessary, be it tools, technologies to make me a standout software engineer.  
- - 👯: I'm ready to be part of any project which technology ranging from JavaScript, Typescript and NodeJS.
- - ⚡: I just Wanna let you know I love watching Football, and Listening to songs 😜.
- - 💬 : I write about random topics that I find challenging and interesting on [Medium](https://medium.com/@oluwatosinakande)
+ - 🌱: Currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
+ - 👯: I'm ready to be part of any project which technology ranging from Typescript, NodeJS, Golang, and Python.
+ - ⚡: I want to let you know I love watching Football, and Listening to songs 😜.
+ - 💬 : I write about random technology topics that I find challenging and interesting on [Medium](https://medium.com/@oluwatosinakande)
  - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://twitter.com/dkrestdev)
 
 
