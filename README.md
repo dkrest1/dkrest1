@@ -5,14 +5,13 @@
 
 **I'm a self-motivated and result-oriented team player, seeking a dynamic environment with the euphoria of delivering my best.** 
 
- - 🌱: Currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
+ - 🌱: I'm currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
  - 👯: I'm ready to be part of any project with technology ranging from Typescript, NodeJS, and Golang.
  - ⚡: I want to let you know I love watching Football, and Listening to songs 😜.
  - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
- - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://twitter.com/dkrestdev)
-   
-  ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
+ - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://twitter.com/dkrestdev) || ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
 
+   
 ## GitHub Contributions
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dkrest1)](https://github.com/anuraghazra/github-readme-stats)
 
