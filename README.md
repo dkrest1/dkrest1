@@ -10,11 +10,14 @@
  - ⚡: I want to let you know I love watching Football, and Listening to songs 😜.
  - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
  - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://twitter.com/dkrestdev)
- - ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
+   
+ ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
 
    
 ## GitHub Contributions
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dkrest1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dkrest1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
