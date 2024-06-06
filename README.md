@@ -9,7 +9,7 @@
  - 👯: I'm ready to be part of any project with technology ranging from Typescript, NodeJS, and Golang.
  - ⚡: I want to let you know I love watching Football, and Listening to songs 😜.
  - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
- - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://twitter.com/dkrestdev)
+ - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://x.com/dkrest1)
    
  ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
 
