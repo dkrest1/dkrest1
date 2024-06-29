@@ -7,7 +7,7 @@
 
  - 🌱: I'm currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
  - 👯: I'm ready to be part of any project with technology ranging from Typescript, NodeJS, and Golang.
- - ⚡: When I'm not coding, you can find me catching a football game or jamming out to some tunes. 😊.
+ - ⚡: When I'm not coding, you can find me catching a football game or jamming out to some tunes 😊.
  - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
  - 📫: You can reach me on [linkedin](https://www.linkedin.com/in/oluwatosin-akande1) || [Twitter](https://x.com/dkrest1)
    
