@@ -6,7 +6,7 @@
 **I'm a self-motivated and result-oriented team player, seeking a dynamic environment with the euphoria of delivering my best.** 
 
  - 🌱: I'm currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
- - 👯: I'm ready to be part of any project with technology ranging from Typescript, NodeJS, and Golang.
+ - 👯: I'm ready to be part of any project with technology ranging from Typescript, NodeJS, and Golang, PHP Laravel.
  - ⚡: When I'm not coding, you can find me catching a football game or jamming out to some tunes 😊.
  - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
  - 📫: You can reach me on [Twitter](https://x.com/dkrest1)
