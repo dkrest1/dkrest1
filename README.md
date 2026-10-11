@@ -4,11 +4,11 @@
 
 I build backend services, APIs, and the infrastructure behind them.
 
-- 🛠️ Working with **Go, Python, TypeScript & Node.js**
-- ☁️ Building across **backend, cloud & DevOps**
-- 🔬 Exploring **AI/ML and software reliability**
-- ✍️ Sharing thoughts and lessons on [Medium](https://medium.com/@oluwatosinakande)
-- ⚽ Away from code: **football & music**
+🛠️ Working with **Go, Python, TypeScript & Node.js**
+ ☁️ Building across **backend, cloud & DevOps**
+ 🔬 Exploring **AI/ML and software reliability**
+ ✍️ Sharing thoughts and lessons on [Medium](https://medium.com/@oluwatosinakande)
+ ⚽ Away from code: **football & music**
 
 <br>
 
