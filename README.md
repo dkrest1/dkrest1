@@ -7,7 +7,7 @@
 I build backend services, APIs, and the infrastructure behind them—with a focus on reliable, maintainable software.
 
 - ☁️ My work spans **backend engineering, cloud & DevOps**
-- 🎓 ** Master's degree in Computing**, with interests in AI/ML and software reliability
+- 🎓 ** Master's degree in Computing **, with interests in AI/ML and software reliability
 - ✍️ I share engineering ideas and lessons on [Medium](https://medium.com/@oluwatosinakande)
 - ⚽ Away from code, you’ll find me watching football or listening to music
 
