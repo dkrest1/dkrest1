@@ -1,36 +1,45 @@
-# Hey, I’m Oluwatosin 👋
+# Oluwatosin Akande 👋
+### Software Engineer · Backend & Cloud
 
-**Software Engineer · Backend, Cloud & DevOps**
+I build the services behind the product—and the infrastructure behind the services.
 
-I build APIs, backend services, and the infrastructure that keeps them running.
+⚙️ **Backend** — APIs, data, queues & concurrency  
+☁️ **Cloud & DevOps** — containers, infrastructure & delivery  
+🔎 **Curiosity** — distributed systems, developer tooling & reliability  
 
-- ⚙️ Working with **Go, TypeScript, Python & Node.js**
-- ☁️ Connecting **application code, cloud infrastructure & delivery**
-- 🔍 Interested in **distributed systems, Kubernetes & developer tooling**
-- ✍️ Sharing engineering thoughts on [Medium](https://medium.com/@oluwatosinakande)
-- ⚽ Away from the terminal: **football & music**
+<br>
 
-[**🌐 Website ↗**](https://oluwatosinakande.com) &nbsp; · &nbsp; [**💼 LinkedIn ↗**](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; · &nbsp; [**💬 X ↗**](https://x.com/dkrest1)
+**[Explore my work ↗](https://oluwatosinakande.com)** &nbsp; · &nbsp; [LinkedIn](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; · &nbsp; [Read my writing](https://medium.com/@oluwatosinakande)
 
 ---
 
-### 🛠️ Behind the build
+#### 🧰 My toolkit
 
-`Go` `TypeScript` `Python` `Node.js`  
+`Go` `TypeScript` `Python` `Node.js`
+
 `PostgreSQL` `RabbitMQ` `Docker` `AWS` `GitHub Actions`
 
-### 📊 On GitHub
+<br>
+
+<details open>
+<summary><strong>📊 A little of what happens here</strong></summary>
+
+<br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF">
-  <img src="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA" alt="Oluwatosin's GitHub activity statistics" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&custom_title=On%20GitHub">
+  <img src="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA&custom_title=On%20GitHub" alt="GitHub activity statistics for dkrest1" width="420">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=0969DA" alt="Languages across Oluwatosin's public repositories" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&custom_title=Across%20my%20repositories">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=0969DA&custom_title=Across%20my%20repositories" alt="Language distribution across my public repositories" width="360">
 </picture>
+
+</details>
 
 ---
 
-**↓ A few things I’ve built — explore my pinned repositories.**
+⚽ Football. 🎧 Music. 💭 Occasional thoughts on [X](https://x.com/dkrest1).
+
+**Selected work lives in the pins below ↓**
