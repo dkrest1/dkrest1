@@ -7,7 +7,7 @@
 I build backend services, APIs, and the infrastructure behind them—with a focus on reliable, maintainable software.
 
 - ☁️ My work spans **backend engineering, cloud & DevOps**
-- 🎓 **MRes Computing graduate**, with interests in AI/ML and software reliability
+- 🎓 ** Master's degree in Computing**, with interests in AI/ML and software reliability
 - ✍️ I share engineering ideas and lessons on [Medium](https://medium.com/@oluwatosinakande)
 - ⚽ Away from code, you’ll find me watching football or listening to music
 
@@ -37,7 +37,7 @@ I build backend services, APIs, and the infrastructure behind them—with a focu
 | :--- | :--- |
 | **Languages** | Go · TypeScript · JavaScript · Python |
 | **Backend engineering** | APIs · Services · Authentication · Testing |
-| **Data & persistence** | Relational databases · Data modelling · SQL |
+| **Data & persistence** | Relational databases · Non-relational databases · Data modelling · SQL |
 | **Cloud & delivery** | Cloud infrastructure · Containers · CI/CD |
 | **Engineering interests** | Distributed systems · Kubernetes · Developer tooling |
 
