@@ -1,31 +1,107 @@
-so basically I need you to help create a prompt to make my github page to be so elegant as at the moment this is my github page, this is the readme 
+<div align="center">
 
-# Hi there 👋
+# Oluwatosin Akande
 
+### Software Engineer · Backend & Cloud Infrastructure
 
-## About Me?
+Building reliable software and the systems behind it.
 
-**I'm a self-motivated and result-oriented team player, seeking a dynamic environment with the euphoria of delivering my best.** 
+[Website](https://oluwatosinakande.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; / &nbsp; [Writing](https://medium.com/@oluwatosinakande) &nbsp; / &nbsp; [X](https://x.com/dkrest1)
 
- - 🌱: I'm currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
- - ⚡: When I'm not coding, you can find me catching a football game or jamming out to some tunes 😊.
- - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
- - 📫: You can reach me on [Twitter](https://x.com/dkrest1)
-   
- ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
-   
+</div>
 
-<!--
-**dkrest1/dkrest1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+```yaml
+name: Oluwatosin Akande
+handle: dkrest1
+focus:
+  - Backend engineering
+  - Cloud infrastructure & DevOps
+  - Platform engineering
+interests:
+  - Distributed systems
+  - Developer tooling
+  - Software reliability
+outside_the_terminal:
+  - Football
+  - Music
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work across backend services, APIs, and the infrastructure that supports them. My engineering interests centre on maintainable systems, dependable delivery, and making software easier to operate.
+
+### Engineering toolkit
+
+**Languages**  
+`Go` `TypeScript` `JavaScript` `Python`
+
+**Backend & data**  
+`Node.js` `REST APIs` `PostgreSQL` `SQLite` `RabbitMQ`
+
+**Infrastructure & delivery**  
+`Docker` `AWS EC2` `GitHub Actions`
+
+### Repository insights
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=default&bg_color=00000000"
+    alt="GitHub statistics for dkrest1"
+    width="480">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=6&hide_border=true&theme=default&bg_color=00000000"
+    alt="Language distribution across public repositories analysed by the statistics service"
+    width="400">
+</picture>
+
+<sub>Language distribution reflects repository code, rather than proficiency or time spent coding.</sub>
+
+<br>
+<br>
+
+<details>
+<summary><strong>↳ Explore my engineering interests</strong></summary>
+
+<br>
+
+- **Backend:** API design, service boundaries, persistence, and concurrency.
+- **Cloud & DevOps:** containerisation, deployment workflows, and operational reliability.
+- **Platform:** developer infrastructure, Kubernetes, and tooling that improves delivery.
+- **Research:** CI/CD failures, anomaly detection, and applied machine learning.
+
+My [research repository](https://github.com/dkrest1/dissertaion) includes Python utilities for collecting failed GitHub Actions logs and filtering memory-related failures.
+
+</details>
+
+<br>
+
+<details>
+<summary><strong>↳ Beyond the terminal</strong></summary>
+
+<br>
+
+When I’m away from code, you’ll usually find me watching football or listening to music.
+
+I also share technical ideas and engineering notes on [Medium](https://medium.com/@oluwatosinakande).
+
+</details>
+
+---
+
+<div align="center">
+
+**Explore my pinned repositories below.**
+
+For engineering opportunities and collaboration:  
+[oluwatosinakande.com](https://oluwatosinakande.com) · [Connect on LinkedIn](https://www.linkedin.com/in/oluwatosin-akande1/)
+
+</div>
