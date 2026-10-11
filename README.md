@@ -7,11 +7,14 @@ I build backend services, APIs, and the infrastructure behind them.
 
 - ☁️ Working across **backend, cloud & DevOps**
 - 🔬 Exploring **AI/ML and software reliability**
-- ⚽ Outside code: **football & music**
+- ✍️ Sharing thoughts and lessons on [Medium](https://medium.com/@oluwatosinakande)
+- ⚽ Away from code: **football & music**
 
-<br>
+[![Website](https://img.shields.io/badge/Website-243247?style=flat-square&logo=googlechrome&logoColor=white)](https://oluwatosinakande.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/oluwatosin-akande1/)
+[![Medium](https://img.shields.io/badge/Medium-243247?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@oluwatosinakande)
+[![X](https://img.shields.io/badge/Say_hello-243247?style=flat-square&logo=x&logoColor=white)](https://x.com/dkrest1)
 
-[**Website ↗**](https://oluwatosinakande.com) &nbsp; / &nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; / &nbsp; [**Writing ↗**](https://medium.com/@oluwatosinakande) &nbsp; / &nbsp; [**X ↗**](https://x.com/dkrest1)
 ---
 
 ### 🛠️ Tools I work with
