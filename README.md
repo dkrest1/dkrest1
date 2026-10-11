@@ -1,35 +1,17 @@
-<h1 align="center">Hi there, I’m Oluwatosin 👋</h1>
+# Hi there, I’m Oluwatosin 👋
 
-<p align="center">
-  <strong>Software Engineer · Backend & Cloud</strong>
-  <br>
-  <sub>MRes Computing Graduate</sub>
-</p>
+**Software Engineer · Backend & Cloud**  
+MRes Computing Graduate
 
-<p align="center">
-  Building backend services, APIs, and the infrastructure behind them.
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center"><a href="https://oluwatosinakande.com"><strong>🌐 Website ↗</strong></a></td>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/oluwatosin-akande1/">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="">
-        <strong>LinkedIn ↗</strong>
-      </a>
-    </td>
-    <td align="center"><a href="https://medium.com/@oluwatosinakande"><strong>✍️ Writing ↗</strong></a></td>
-    <td align="center"><a href="https://x.com/dkrest1"><strong>💬 Say hello ↗</strong></a></td>
-  </tr>
-</table>
-
-<br>
+I build backend services, APIs, and the infrastructure behind them.
 
 - ☁️ Working across **backend, cloud & DevOps**
 - 🔬 Exploring **AI/ML and software reliability**
 - ⚽ Outside code: **football & music**
 
+<br>
+
+[**Website ↗**](https://oluwatosinakande.com) &nbsp; / &nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; / &nbsp; [**Writing ↗**](https://medium.com/@oluwatosinakande) &nbsp; / &nbsp; [**X ↗**](https://x.com/dkrest1)
 ---
 
 ### 🛠️ Tools I work with
