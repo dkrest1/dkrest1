@@ -1,19 +1,32 @@
-# Hi there, I’m Oluwatosin 👋
+# Hi there 👋
 
-**Software Engineer · Backend & Cloud **  
 
-I build backend services, APIs, and the infrastructure behind them.
+## About Me?
 
-- ☁️ Working across **backend, cloud & DevOps**
-- 🔬 Exploring **AI/ML and software reliability**
-- ✍️ Sharing thoughts and lessons on [Medium](https://medium.com/@oluwatosinakande)
-- ⚽ Away from code: **football & music**
+**I'm a self-motivated and result-oriented team player, seeking a dynamic environment with the euphoria of delivering my best.** 
 
-[![Website](https://img.shields.io/badge/Website-243247?style=flat-square&logo=googlechrome&logoColor=white)](https://oluwatosinakande.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/oluwatosin-akande1/)
-[![Medium](https://img.shields.io/badge/Medium-243247?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@oluwatosinakande)
-[![X](https://img.shields.io/badge/Say_hello-243247?style=flat-square&logo=x&logoColor=white)](https://x.com/dkrest1)
+ - 🌱: I'm currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
+ - ⚡: When I'm not coding, you can find me catching a football game or jamming out to some tunes 😊.
+ - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
+ - 📫: You can reach me on [Twitter](https://x.com/dkrest1)
+   
+ ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
+   
 
+<!--
+**dkrest1/dkrest1** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 ---
 
 ### 🛠️ Tools I work with
