@@ -12,13 +12,20 @@ I build backend services, APIs, and the infrastructure behind them.
 
 <br>
 
-[**🌐 Website**](https://oluwatosinakande.com) &nbsp; · &nbsp; [**💼 LinkedIn**](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; · &nbsp; [**💬 Say hello on X**](https://x.com/dkrest1)
+<a href="https://oluwatosinakande.com"><img src="https://img.shields.io/badge/Website-%E2%86%97-2563EB?style=for-the-badge" alt="Visit my website"></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/oluwatosin-akande1/"><img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-2563EB?style=for-the-badge" alt="Connect on LinkedIn"></a>
+&nbsp;
+<a href="https://x.com/dkrest1"><img src="https://img.shields.io/badge/Say_Hello-%E2%86%97-2563EB?style=for-the-badge" alt="Say hello on X"></a>
 
 ---
 
-### 🧰 Tools I use
+### 🧰 Tools I work with
 
-`Go` `Python` `TypeScript` `Node.js`  
+<img src="https://img.shields.io/badge/Go-161B22?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go">
+<img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python">
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
 
 ### 📊 GitHub at a glance
 
@@ -34,4 +41,8 @@ I build backend services, APIs, and the infrastructure behind them.
 
 ---
 
-**Thanks for stopping by ↓ **
+---
+
+<p align="center">
+  <strong>Thanks for stopping by 👋</strong>
+</p>
