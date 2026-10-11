@@ -1,7 +1,6 @@
 # Hi there, I’m Oluwatosin 👋
 
-**Software Engineer · Backend & Cloud**  
-MRes Computing Graduate
+**Software Engineer · Backend & Cloud **  
 
 I build backend services, APIs, and the infrastructure behind them.
 
