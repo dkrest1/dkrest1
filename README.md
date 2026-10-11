@@ -1,26 +1,36 @@
-```go
-// Oluwatosin Akande
-// Software Engineer · Backend & Cloud
+# Hey, I’m Oluwatosin 👋
 
-build("reliable services")
-ship("thoughtful infrastructure")
-```
+**Software Engineer · Backend, Cloud & DevOps**
 
-[**Website ↗**](https://oluwatosinakande.com) &nbsp; · &nbsp; [**LinkedIn ↗**](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; · &nbsp; [**Writing ↗**](https://medium.com/@oluwatosinakande)
+I build APIs, backend services, and the infrastructure that keeps them running.
+
+- ⚙️ Working with **Go, TypeScript, Python & Node.js**
+- ☁️ Connecting **application code, cloud infrastructure & delivery**
+- 🔍 Interested in **distributed systems, Kubernetes & developer tooling**
+- ✍️ Sharing engineering thoughts on [Medium](https://medium.com/@oluwatosinakande)
+- ⚽ Away from the terminal: **football & music**
+
+[**🌐 Website ↗**](https://oluwatosinakande.com) &nbsp; · &nbsp; [**💼 LinkedIn ↗**](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; · &nbsp; [**💬 X ↗**](https://x.com/dkrest1)
 
 ---
 
-**Services** &nbsp; `Go` `TypeScript` `Python`  
-**Data** &nbsp; `PostgreSQL` `RabbitMQ`  
-**Delivery** &nbsp; `AWS` `Docker` `GitHub Actions`
+### 🛠️ Behind the build
 
-<br>
+`Go` `TypeScript` `Python` `Node.js`  
+`PostgreSQL` `RabbitMQ` `Docker` `AWS` `GitHub Actions`
+
+### 📊 On GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&custom_title=Code%20across%20my%20repositories">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=0969DA&custom_title=Code%20across%20my%20repositories" alt="Languages used across my public repositories" width="380">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF">
+  <img src="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA" alt="Oluwatosin's GitHub activity statistics" width="420">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=0969DA" alt="Languages across Oluwatosin's public repositories" width="360">
 </picture>
 
 ---
 
-<sub>SELECTED WORK ↓ &nbsp; Explore my pinned repositories.</sub>
+**↓ A few things I’ve built — explore my pinned repositories.**
