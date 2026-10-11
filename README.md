@@ -1,44 +1,75 @@
-# Hi there, I’m Oluwatosin 👋
+<h1 align="center">Hi there, I’m Oluwatosin 👋</h1>
 
-**Software Engineer · Backend & Cloud · MRes Computing Graduate**
+<p align="center">
+  <strong>Software Engineer · Backend & Cloud</strong>
+  <br>
+  <sub>MRes Computing Graduate</sub>
+</p>
 
-I build backend services, APIs, and the infrastructure behind them.
+<p align="center">
+  Building backend services, APIs, and the infrastructure behind them.
+</p>
 
-- 🛠️ Working with **Go, Python, TypeScript & Node.js**
-- ☁️ Building across **backend, cloud & DevOps**
-- 🔬 Exploring **AI/ML and software reliability**
-- ✍️ Sharing thoughts and lessons on [Medium](https://medium.com/@oluwatosinakande)
-- ⚽ Away from code: **football & music**
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://oluwatosinakande.com"><strong>🌐 Website ↗</strong></a></td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/oluwatosin-akande1/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="16" height="16" alt="">
+        <strong>LinkedIn ↗</strong>
+      </a>
+    </td>
+    <td align="center"><a href="https://medium.com/@oluwatosinakande"><strong>✍️ Writing ↗</strong></a></td>
+    <td align="center"><a href="https://x.com/dkrest1"><strong>💬 Say hello ↗</strong></a></td>
+  </tr>
+</table>
 
 <br>
 
-<p>
-  <a href="https://oluwatosinakande.com"><img src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=safari&logoColor=white" alt="Visit my website"></a>
-  <a href="https://www.linkedin.com/in/oluwatosin-akande1/"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge" alt="Connect on LinkedIn"></a>
-  <a href="https://medium.com/@oluwatosinakande"><img src="https://img.shields.io/badge/Medium-2563EB?style=for-the-badge&logo=medium&logoColor=white" alt="Read my writing on Medium"></a>
-  <a href="https://x.com/dkrest1"><img src="https://img.shields.io/badge/Say_Hello-2563EB?style=for-the-badge&logo=x&logoColor=white" alt="Say hello on X"></a>
-</p>
+- ☁️ Working across **backend, cloud & DevOps**
+- 🔬 Exploring **AI/ML and software reliability**
+- ⚽ Outside code: **football & music**
 
 ---
 
-### 🧰 Tools I work with
+### 🛠️ Tools I work with
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker">
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions">
+</p>
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | ![Go](https://img.shields.io/badge/Go-161B22?style=flat-square&logo=go&logoColor=00ADD8) ![TypeScript](https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=FFD43B) |
-| **Backend & data** | ![Node.js](https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=nodedotjs&logoColor=5FA04E) ![REST APIs](https://img.shields.io/badge/REST_APIs-161B22?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161B22?style=flat-square&logo=postgresql&logoColor=7BAACB) ![SQLite](https://img.shields.io/badge/SQLite-161B22?style=flat-square&logo=sqlite&logoColor=74C0FC) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-161B22?style=flat-square&logo=rabbitmq&logoColor=FF6600) |
-| **Delivery & infrastructure** | ![Docker](https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=2496ED) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161B22?style=flat-square&logo=githubactions&logoColor=2088FF) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-161B22?style=flat-square) |
+| **Languages** | Go · TypeScript · JavaScript · Python |
+| **Backend & data** | Node.js · REST APIs · PostgreSQL · SQLite · RabbitMQ |
+| **Delivery & infrastructure** | Docker · GitHub Actions · AWS EC2 |
+
+---
 
 ### 📊 GitHub at a glance
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF">
-  <img src="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&bg_color=00000000&title_color=0969DA&icon_color=0969DA" alt="Oluwatosin’s GitHub statistics" width="420">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&theme=default" alt="Oluwatosin’s GitHub statistics" width="420">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=5&hide_border=true&bg_color=00000000&title_color=0969DA" alt="Languages used across my public repositories" width="360">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&theme=github_dark">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&theme=default" alt="Languages across my public repositories" width="360">
 </picture>
 
 ---
