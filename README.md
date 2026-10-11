@@ -1,35 +1,21 @@
-# Hi there 👋
+# Hi there, I’m Oluwatosin 👋
 
+**Software Engineer · Backend & Cloud**
 
-## About Me?
+### A little about me
 
-**I'm a self-motivated and result-oriented team player, seeking a dynamic environment with the euphoria of delivering my best.** 
+I build backend services, APIs, and the infrastructure behind them—with a focus on reliable, maintainable software.
 
- - 🌱: I'm currently learning everything necessary, be it tools, and technologies to make me a standout software engineer.  
- - ⚡: When I'm not coding, you can find me catching a football game or jamming out to some tunes 😊.
- - 💬 : Exploring the wild frontiers of tech: my random musings on [Medium](https://medium.com/@oluwatosinakande)
- - 📫: You can reach me on [Twitter](https://x.com/dkrest1)
-   
- ![Profile Views](https://komarev.com/ghpvc/?username=dkrest1) 
-   
+- ☁️ My work spans **backend engineering, cloud & DevOps**
+- 🎓 **MRes Computing graduate**, with interests in AI/ML and software reliability
+- ✍️ I share engineering ideas and lessons on [Medium](https://medium.com/@oluwatosinakande)
+- ⚽ Away from code, you’ll find me watching football or listening to music
 
-<!--
-**dkrest1/dkrest1** is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
+**Find me on** [LinkedIn](https://www.linkedin.com/in/oluwatosin-akande1/) · [X](https://x.com/dkrest1) · [My website ↗](https://oluwatosinakande.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---
 
-### 🛠️ Tools I work with
+### 🛠️ Engineering toolkit
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go" title="Go">
@@ -42,18 +28,18 @@ Here are some ideas to get you started:
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js">
   &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" title="PostgreSQL">
-  &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker">
   &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40" alt="GitHub Actions" title="GitHub Actions">
 </p>
 
-| Area | Technologies |
+| Area | Focus |
 | :--- | :--- |
 | **Languages** | Go · TypeScript · JavaScript · Python |
-| **Backend & data** | Node.js · REST APIs · PostgreSQL · SQLite · RabbitMQ |
-| **Delivery & infrastructure** | Docker · GitHub Actions · AWS EC2 |
+| **Backend engineering** | APIs · Services · Authentication · Testing |
+| **Data & persistence** | Relational databases · Data modelling · SQL |
+| **Cloud & delivery** | Cloud infrastructure · Containers · CI/CD |
+| **Engineering interests** | Distributed systems · Kubernetes · Developer tooling |
 
 ---
 
@@ -66,11 +52,9 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&theme=github_dark">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&theme=default" alt="Languages across my public repositories" width="360">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&theme=default" alt="Language distribution across my public repositories" width="360">
 </picture>
 
 ---
 
-<p align="center">
-  <strong>Thanks for stopping by 👋</strong>
-</p>
+**Thanks for stopping by 👋**
