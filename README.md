@@ -1,107 +1,43 @@
 <div align="center">
 
 # Oluwatosin Akande
+**BACKEND & CLOUD ENGINEERING**
 
-### Software Engineer · Backend & Cloud Infrastructure
+<sub>Reliable services. Thoughtful infrastructure.</sub>
 
-Building reliable software and the systems behind it.
+<br><br>
 
-[Website](https://oluwatosinakande.com) &nbsp; / &nbsp; [LinkedIn](https://www.linkedin.com/in/oluwatosin-akande1/) &nbsp; / &nbsp; [Writing](https://medium.com/@oluwatosinakande) &nbsp; / &nbsp; [X](https://x.com/dkrest1)
+<a href="https://oluwatosinakande.com"><img src="https://img.shields.io/badge/WEBSITE-0D1117?style=for-the-badge&logo=safari&logoColor=58A6FF" alt="Visit my website"></a>
+<a href="https://www.linkedin.com/in/oluwatosin-akande1/"><img src="https://img.shields.io/badge/CONNECT-0D1117?style=for-the-badge&logoColor=58A6FF" alt="Connect on LinkedIn"></a>
+<a href="https://medium.com/@oluwatosinakande"><img src="https://img.shields.io/badge/WRITING-0D1117?style=for-the-badge&logo=medium&logoColor=58A6FF" alt="Read my technical writing"></a>
 
 </div>
 
+<br>
+
 ---
 
-```yaml
-name: Oluwatosin Akande
-handle: dkrest1
-focus:
-  - Backend engineering
-  - Cloud infrastructure & DevOps
-  - Platform engineering
-interests:
-  - Distributed systems
-  - Developer tooling
-  - Software reliability
-outside_the_terminal:
-  - Football
-  - Music
-```
-
-I work across backend services, APIs, and the infrastructure that supports them. My engineering interests centre on maintainable systems, dependable delivery, and making software easier to operate.
-
-### Engineering toolkit
-
-**Languages**  
-`Go` `TypeScript` `JavaScript` `Python`
-
-**Backend & data**  
-`Node.js` `REST APIs` `PostgreSQL` `SQLite` `RabbitMQ`
-
-**Infrastructure & delivery**  
-`Docker` `AWS EC2` `GitHub Actions`
-
-### Repository insights
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF">
-  <img
-    src="https://github-stats-extended.vercel.app/api?username=dkrest1&show_icons=true&hide_rank=true&hide_border=true&theme=default&bg_color=00000000"
-    alt="GitHub statistics for dkrest1"
-    width="480">
-</picture>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=6&hide_border=true&theme=default&bg_color=00000000"
-    alt="Language distribution across public repositories analysed by the statistics service"
-    width="400">
-</picture>
-
-<sub>Language distribution reflects repository code, rather than proficiency or time spent coding.</sub>
-
-<br>
-<br>
-
-<details>
-<summary><strong>↳ Explore my engineering interests</strong></summary>
-
-<br>
-
-- **Backend:** API design, service boundaries, persistence, and concurrency.
-- **Cloud & DevOps:** containerisation, deployment workflows, and operational reliability.
-- **Platform:** developer infrastructure, Kubernetes, and tooling that improves delivery.
-- **Research:** CI/CD failures, anomaly detection, and applied machine learning.
-
-My [research repository](https://github.com/dkrest1/dissertaion) includes Python utilities for collecting failed GitHub Actions logs and filtering memory-related failures.
-
-</details>
-
-<br>
-
-<details>
-<summary><strong>↳ Beyond the terminal</strong></summary>
-
-<br>
-
-When I’m away from code, you’ll usually find me watching football or listening to music.
-
-I also share technical ideas and engineering notes on [Medium](https://medium.com/@oluwatosinakande).
-
-</details>
+<p align="center">
+  <code>Go</code> &nbsp; <code>TypeScript</code> &nbsp; <code>Python</code>
+  <br><br>
+  <code>APIs</code> &nbsp; <code>PostgreSQL</code> &nbsp; <code>RabbitMQ</code>
+  <br><br>
+  <code>AWS</code> &nbsp; <code>Docker</code> &nbsp; <code>GitHub Actions</code>
+</p>
 
 ---
+
+<br>
 
 <div align="center">
 
-**Explore my pinned repositories below.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=00000000&title_color=58A6FF&custom_title=Repository%20languages">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dkrest1&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0969DA&custom_title=Repository%20languages" alt="Language distribution in my public repositories" width="360">
+</picture>
 
-For engineering opportunities and collaboration:  
-[oluwatosinakande.com](https://oluwatosinakande.com) · [Connect on LinkedIn](https://www.linkedin.com/in/oluwatosin-akande1/)
+<br><br>
+
+<sub>↓ &nbsp; EXPLORE THE PINNED REPOSITORIES</sub>
 
 </div>
