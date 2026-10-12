@@ -13,6 +13,11 @@ I build backend services, APIs, and the infrastructure behind them with a focus 
 
 **Find me on** [LinkedIn](https://www.linkedin.com/in/oluwatosin-akande1/) · [X](https://x.com/dkrest1) · [My website ↗](https://oluwatosinakande.com)
 
+[![Website](assets/website.svg)](https://oluwatosinakande.com)
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/oluwatosin-akande1/)
+[![Medium](assets/medium.svg)](https://medium.com/@oluwatosinakande)
+[![X](assets/x.svg)](https://x.com/dkrest1)
+
 ---
 
 ### 🛠️ Engineering toolkit
