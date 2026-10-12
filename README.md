@@ -4,7 +4,7 @@
 
 ### A little about me
 
-I build backend services, APIs, and the infrastructure behind them—with a focus on reliable, maintainable software.
+I build backend services, APIs, and the infrastructure behind them with a focus on reliable, maintainable software.
 
 - ☁️ My work spans **backend engineering, cloud & DevOps**
 - 🎓 **Master's degree in Computing**, with interests in AI/ML and software reliability
